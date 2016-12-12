@@ -1,1 +1,1 @@
-# FlurlHttpSample
+# Flurl.Http Sample Project
